@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>WebDevPro Blog</title>
+<link>http://blog.webdevpro.nl</link>
+<description>
+  WebDevPro Blog by Ramon Horst.
+  Web Developer, Web Designer and Copywriter from Valthermond, The Netherlands
+</description>
+
+<item>
+<title>The Digital Garage: 7th of August 2017 </title>
+<link>http://blog.webdevpro.nl/#august7</link>
+<guid>http://blog.webdevpro.nl/#august7</guid>
+<pubDate>Mon, 7 Aug 2017 09:00:32 GMT </pubDate>
+<description>The Digital Garage. Certification by Google endorsed by IAB Europe.</description>
+</item>
+
+<item>
+  <title>A new week: 31st of July 2017</title>
+  <link>http://blog.webdevpro.nl/#july31</link>
+  <guid>http://blog.webdevpro.nl/#july31</guid>
+  <pubDate>Mon, 31 Jul 2017 10:00:00 GMT </pubDate>
+  <description>
+    A look into the future of Ramon Horst. Monitor and acting product owner at CodeGorilla.
+    Also staying an independent web developer and freelancer in webdesign and copywriting.
+  </description>
+</item>
+
+<item>
+  <title>Product Owner in a Learning Company: 25th of July 2017</title>
+  <link>http://blog.webdevpro.nl/#july25</link>
+  <guid>http://blog.webdevpro.nl/#july25</guid>
+  <pubDate>Tue, 25 Jul 2017 10:00:00 GMT </pubDate>
+  <description>
+    How to be a Product Owner in a learning company.
+    How to take on the role of Product Owner with inexperienced teams.
+  </description>
+</item>
+
+<item>
+  <title>The Codathon: 20th of July 2017</title>
+  <link>http://blog.webdevpro.nl/#july20</link>
+  <guid>http://blog.webdevpro.nl/#july20</guid>
+  <pubDate>Thu, 20 Jul 2017 10:00:00 GMT </pubDate>
+  <description>
+    Codathon at CodeGorilla. Thoughts and views of Ramon Horst.
+    A mini-hackathon about coding: Codathon.
+  </description>
+</item>
+
+<item>
+  <title>The Big Overhaul: 13th of July 2017</title>
+  <link>http://blog.webdevpro.nl/#july13</link>
+  <guid>http://blog.webdevpro.nl/#july13</guid>
+  <pubDate>Thu, 13 Jul 2017 10:00:00 GMT </pubDate>
+  <description>
+    Shifting focus from developing a webshop to being a Product Owner and Monitor at CodeGorilla.
+
+  </description>
+</item>
+
+<item>
+  <title>The WordPress Scan Page: 10th of July 2017</title>
+  <link>http://blog.webdevpro.nl/#july10</link>
+  <guid>http://blog.webdevpro.nl/#july10</guid>
+  <pubDate>Mon, 10 Jul 2017 10:00:00 GMT </pubDate>
+  <description>
+    WebDevPro WordPress security scans. Free of charge scan for WordPress installations
+    and plugins.
+  </description>
+</item>
+
+
+</channel>
+</rss>
